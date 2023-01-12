@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CJ2711
-- 👀 I’m interested in IA and sofware development
-- 🌱 I’m currently learning Python and Django Framework
+- 👋 Hi, I’m Christian Barbosa
+- 👀 I’m interested in AI and sofware development as Full Stack
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on huge proyects with nice partners
 - 📫 How to reach me @christianjbarbosab on Instagram
 
