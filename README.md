@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian Barbosa
-- 👀 I’m interested in sofware development as Full Stack and some things of Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in sofware development as Full Stack and automation with AI
+- 🌱 I’m currently learning RAG
 - 💞️ I’m looking to collaborate on huge proyects with nice partners
 - 📫 How to reach me: @christianjbarbosab on Instagram
 
